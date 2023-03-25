@@ -1,0 +1,36 @@
+body{
+    background: rgb(23, 172, 175);
+}
+
+h1{
+    font-size: 40px;
+    color: red;
+    margin-left: 23%;
+}
+
+section{
+    margin-left: 30%;
+}
+
+input{
+    width: 250px;
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 4px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    border: none;
+
+}
+
+.descripcion input{
+    width: 560px;
+    height: 150px;
+}
+
+.submit input{
+    background: rgb(42, 42, 148);
+    color: white;
+    margin-left: 20%;
+}
